@@ -1,0 +1,10 @@
+Hello Readers,
+Welcome to this Node.js server !!
+
+I am using ReadStream and WriteStream to read poems in .txt format from server side
+and then pipe it to return to you, client side in text format!
+
+use local-host:port number/poem number to get poems
+eg: 127.0.0.1:3000/1
+
+Note: request from 1-13 to get 13 different poems as a demo!

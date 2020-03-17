@@ -1,0 +1,28 @@
+{
+  "name": "demonode",
+  "version": "1.0.0",
+  "description": "Package containing all the JS files that I used to learn NodeJS and Express from the youtube channel, The Net Ninja!",
+  "main": "01_HelloWorld.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "learn",
+    "experiment",
+    "fun",
+    "coding",
+    "code",
+    "JS",
+    "Node",
+    "JavaScript",
+    "NodeJS",
+    "Express"
+  ],
+  "author": "Atanu Sarkar",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^3.0.1",
+    "express": "^4.17.1"
+  }
+}
